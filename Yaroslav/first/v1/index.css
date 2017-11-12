@@ -1,0 +1,20 @@
+body {
+   background-color: #8BC34A;
+}
+h1 {
+    color: rgb(58, 158, 62);
+}
+p.aga {
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+}
+p.aga:hover {
+    color: #8BC34A;
+}
+img {
+    width: 163px;
+    position: absolute;
+    top: 200px;
+    left: 323px;
+}

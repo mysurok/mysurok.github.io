@@ -12,7 +12,7 @@ p.aga {
 p.aga:hover {
     color: #8BC34A;
 }
-img.flower {
+img {
     width: 163px;
     position: absolute;
     top: 200px;
@@ -55,52 +55,3 @@ p.secret {
 p.secret:hover {
     color: #fff;
 }
-div.field {
-    border: 3px dotted blue;
-    height: 400px;
-    width: 800px;
-    position: absolute;
-    top: 100px;
-    left: 100px;
-    background-color: white;
-    box-shadow: 4px 4px 18px;
-}
-#up {
-    position: absolute;
-    top: 60px;
-    left: 484px;
-}
-#left{
-    position: absolute;
-    top: 277px;
-    left: 27px;
-}
-#right{
-    position: absolute;
-    left: 933px;
-    top: 277px;
-}
-#down{
-    position: absolute;
-    left: 488px;
-    top: 522px;
-}
-#smile{
-    position: absolute;
-    width: 150px;
-    top: 200px;
-    left: 450px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-Настройки доступа

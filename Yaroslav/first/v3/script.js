@@ -30,12 +30,3 @@ $('#left').on('click', function() {
         $('#smile').css('left', myleft + 'px');
     }
 });
-
-
-
-
-
-
-
-
-Настройки доступа

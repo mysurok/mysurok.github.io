@@ -1,0 +1,93 @@
+body {
+   background-color: #8BC34A;
+}
+h1 {
+    color: rgb(58, 158, 62);
+}
+p.aga {
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+}
+p.aga:hover {
+    color: #8BC34A;
+}
+img.flower {
+    width: 163px;
+    position: absolute;
+    top: 200px;
+    left: 323px;
+}
+img.rainbow {
+    width: 400px;
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+li {
+    font-size: 25px;
+}
+li.k {
+    color: red;
+}
+li.o {
+    color: orange;
+}
+li.j {
+    color: gold ;
+}
+li.z {
+    color: green;
+}
+li.g {
+    color: blue;
+}
+li.s {
+    color: darkblue;
+}
+li.f {
+    color: purple;
+}
+p.secret {
+    font-size: 42px;
+    color: rgba(0, 0, 0, 0);
+}
+p.secret:hover {
+    color: #fff;
+}
+div.field {
+    border: 3px dotted blue;
+    height: 400px;
+    width: 800px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: white;
+    box-shadow: 4px 4px 18px;
+}
+#up {
+    position: absolute;
+    top: 60px;
+    left: 484px;
+}
+#left{
+    position: absolute;
+    top: 277px;
+    left: 27px;
+}
+#right{
+    position: absolute;
+    left: 933px;
+    top: 277px;
+}
+#down{
+    position: absolute;
+    left: 488px;
+    top: 522px;
+}
+#smile{
+    position: absolute;
+    width: 150px;
+    top: 200px;
+    left: 450px;
+}
