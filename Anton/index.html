@@ -1,0 +1,53 @@
+<html>
+<header>
+</header>
+        
+<style>
+ body {
+	background: url('img/marmot.jpg') no-repeat;
+	background-size: 100%;
+ }
+ h1 {
+	font-size: 100px;
+	text-align: center;
+ }
+ h2 {
+	font-size: 20px;
+	text-align: center;
+ }
+ span.red {color: red;}
+span.orange {color: orange;}
+span.yellow {color: yellow}
+span.green {color:green}
+span.blue {color:blue}
+span.ble {color:purple}
+ img {
+	display: block;
+	margin: 0 auto;
+ }
+ img.swords {
+	height: 160px;
+	cursor:pointer;
+ }
+ img.helmet {
+ 	height: 260px;
+	cursor:pointer;
+ }      
+</style>
+
+<body>
+<h1><span class='red'>su</span><span class='orange'>rk</span><span class='yellow'>ol</span><span class='green'>an</span><span class='blue'>di</span><span class='ble'>a</span></h1>
+<h2>Пиши правильный ответ и получишь что-нибудь</h2>
+<img class='helmet' src='helmet.jpg' onclick='byebye()'/>
+</body>
+
+<script>
+function hello(element) {
+alert('hello Anton!')
+element.style.display='none'
+}
+function byebye(){
+alert( 'are you sure?')
+}
+</script>
+</html>                                       

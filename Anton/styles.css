@@ -1,0 +1,65 @@
+ h1 {
+	font-size: 100px;
+	text-align: center;
+ }
+ span.red {color: red;}
+span.orange {color: orange;}
+span.yellow {color: yellow}
+span.green {color:green}
+span.blue {color:blue}
+span.ble {color:purple}
+ img {
+	display: block;
+	margin: 0 auto;
+ }
+ img.swords {
+	height: 160px;
+	cursor:pointer;
+ }
+ img.helmet {
+ 	height: 260px;
+	cursor:pointer;
+ }
+ img.surkoLaser {
+ 	height: 70px;
+	position: absolute;
+	display: none;
+	top: 400px;
+	left: 0;
+ }
+ img.frank{
+	height:100px;
+	position: absolute;
+	display:none;
+	top: 400px;
+	left: 650px;
+ }                     
+img.prize{
+	height:60px;
+	position: absolute;
+}       
+ body {
+	background: url('img/marmot.jpg') no-repeat;
+	background-size: 100%;
+ }
+div.panel{
+	background-color:silver;
+	height:100vh;
+	width:150px;
+	position: absolute;
+	top:0;
+	right:0;
+}
+div.panel img {
+	margin:0;
+	height:60px;
+}
+div.box {
+	display:flex;
+	flex-direction:row;
+	align-items:center;
+	font-size:22px;
+	justify-content:space-around;
+	margin:30px 0;	
+}
+
