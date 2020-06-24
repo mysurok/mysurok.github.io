@@ -63,3 +63,18 @@ div.box {
 	margin:30px 0;	
 }
 
+div.pause {
+	display: none;
+	position:absolute;
+	margin: 45vh 45vw;
+	top: 0;
+}
+
+ div.pause:before, div.pause:after {
+	 content: '';
+	 display: inline-block;
+	 height: 60px;
+	 width: 10px;
+	 background: white;
+	 margin: 5px;
+ }

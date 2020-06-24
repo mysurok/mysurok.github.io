@@ -5,6 +5,7 @@ let frankTop = 400;
 let teleTime = 0;
 let score = [0, 0, 0, 0, 0, 0]
 let prizes = []
+let isPause = false
 
 function hello(element) {
 	alert('hello!')
@@ -40,6 +41,9 @@ function frank() {
 
 // Функция перемещения Франкенштейна
 function frankgo(){
+	if (isPause) {
+		return
+	}
 	const frank = document.getElementById('frank')
 	if(frankLeft>surLeft){
 		frankLeft = frankLeft - 30
@@ -55,8 +59,6 @@ function frankgo(){
 	if(frankTop<surTop && frankTop < 550){
 		frankTop = frankTop + 30
 	}
-
-
 	frank.style.left = frankLeft + 'px'
 	frank.style.top = frankTop + 'px'
 
@@ -71,6 +73,13 @@ function frankgo(){
 }
 
 function surgo(e){
+	if (e.keyCode===32){
+		isPause = !isPause;
+		document.getElementById('pause').style.display = isPause ? "block" : "none"
+	}
+	if (isPause){
+		return
+	}
 // Сурок идёт направо
 	if(e.keyCode===39 && surLeft<1200){
 		surLeft = surLeft + 20
