@@ -1,6 +1,7 @@
 body
 {
 	background-color: #cccccc;
+    font-size: 14px;
 }
 ul
 {
@@ -9,6 +10,8 @@ ul
 li
 {
 	font-weight: bold;
+    font-size: 18px;
+    margin: 4px;
 }
 li.back
 {
@@ -16,23 +19,27 @@ li.back
 }
 td
 {
-	font-size: 12pt;
+	font-size: 18px;
 }
 td.head
 {
 	background-color: #aaaaaa;
 	color: #ffffff;
 	font-weight: bold;
-	font-size: 15pt;
+	font-size: 24px;
 }
 td.head2 
 {
 	background-color: #aaaaaa;
 	color: #ffffff;
 	font-weight: bold;
-	font-size: 20pt;
+	font-size: 24px;
+    margin: 4px;
 }
 .ps
 {
-	font-size: x-small;
+	font-size: 12px;
+}
+p {
+    line-height: 1.2;
 }
