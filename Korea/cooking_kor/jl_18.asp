@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -18,13 +18,13 @@
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="jl_01.asp">Чжончжу-бибимбап</option>
-							<option value="jl_03.asp">Кхоннамуль-гукбап</option>
-							<option value="jl_04.asp">Кимчи-бап</option>
-							<option value="jl_07.asp">Чуо-тхан</option>
-							<option value="jl_12.asp">Ккотге-чжан</option>
-							<option value="jl_21.asp">Сучжонгва</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_01.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_03.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_04.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="jl_07.asp">пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="jl_12.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="jl_21.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -74,7 +74,7 @@
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 					<tr valign="top">
 						<td>2)</td>
-						<td>Soak glutinous rice in 20° water for 30 hours and drain. Then, grind with salt and sieve.</td>
+						<td>Soak glutinous rice in 20пїЅ water for 30 hours and drain. Then, grind with salt and sieve.</td>
 					</tr>
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 					<tr valign="top">

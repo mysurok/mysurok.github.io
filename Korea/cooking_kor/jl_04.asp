@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -14,17 +14,17 @@
 					</tr>
 					<tr><td background="/common/images/dot_01.gif" colspan="2"><img src="/common/images/trans.gif" width="1" height="1" border="0"></td></tr>
 					<tr bgcolor="#F5F5F5">
-						<td height="25" style="padding-left:10px"><b>Чжолла-до, Кимчи-бап</b></td>
+						<td height="25" style="padding-left:10px"><b>пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅ, пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</b></td>
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="jl_01.asp">Чжончжу-бибимбап</option>
-							<option value="jl_03.asp">Кхоннамуль-гукбап</option>
-							<option value="jl_04.asp">Кимчи-бап</option>
-							<option value="jl_07.asp">Чуо-тхан</option>
-							<option value="jl_12.asp">Ккотге-чжан</option>
-							<option value="jl_21.asp">Сучжонгва</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_01.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_03.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="jl_04.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="jl_07.asp">пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="jl_12.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="jl_21.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -41,13 +41,13 @@
 							</tr>
 							<tr><td><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 						</table>
-						<b>Кимчи-бап (пареный рис с кимчи) (приложение)</b><br><br>
-						Во время приготовления риса вместо проросших бобов добавляют нарезанное кимчи. Либо пареный рис обжаривают с кимчи и говядиной.</td>
+						<b>пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ) (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</b><br><br>
+						пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ. пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</td>
 					</tr>
 					<tr><td><img src="/common/images/trans.gif" width="1" height="10" border="0"></td></tr>
 					<tr>
 						<td>
-							Кимчи является предствителем маринованной пищи, богатой витамином С. Это блюдо увеличивает органические кислоты и уменьшает потерю витамина С.
+							пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ. пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ.
 						</td>
 					</tr>
 					<tr><td><img src="/common/images/trans.gif" width="1" height="10" border="0"></td></tr>

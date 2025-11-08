@@ -1,10 +1,10 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	
 <title>
 
-							Tour2Korea.com: О корейской кухне </title>
+							Tour2Korea.com: пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ </title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
 </head>	
@@ -20,13 +20,13 @@
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="su_02.asp">Соллон-тхан</option>
-							<option value="su_10.asp">Тток-гук</option>
-							<option value="su_15.asp">Гальби-тим</option>
-							<option value="su_18.asp">Бульгоги(или нобиани)</option>
-							<option value="su_27.asp">Чжапчэ</option>
-							<option value="su_37.asp">Яксик</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="su_02.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="su_10.asp">пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="su_15.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="su_18.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</option>
+							<option value="su_27.asp">пїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="su_37.asp">пїЅпїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -86,7 +86,7 @@
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 					<tr valign="top">
 						<td>3)</td>
-						<td>Mix the steamed hot rice with malt water, put in an electric rice cooker, and let stand for 4 hours at 50~60°. When the rice is fermented and 3~4 grains of rice float up, take out the rice with a net and rinse with cold water.</td>
+						<td>Mix the steamed hot rice with malt water, put in an electric rice cooker, and let stand for 4 hours at 50~60пїЅ. When the rice is fermented and 3~4 grains of rice float up, take out the rice with a net and rinse with cold water.</td>
 					</tr>
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 					<tr valign="top">

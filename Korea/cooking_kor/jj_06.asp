@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -14,17 +14,17 @@
 					</tr>
 					<tr><td background="/common/images/dot_01.gif" colspan="2"><img src="/common/images/trans.gif" width="1" height="1" border="0"></td></tr>
 					<tr bgcolor="#F5F5F5">
-						<td height="25" style="padding-left:10px"><b>Чжечжу-до, Обунчжаги-чжук</b></td>
+						<td height="25" style="padding-left:10px"><b>пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</b></td>
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-						<option value="" selected>Выбор блюда</option>
-						<option value="jj_01.asp">Окдом-чжук</option>
-						<option value="jj_02.asp">Миёк-чжук и Чжонбок-чжук</option>
-						<option value="jj_03.asp">Госари-гук и госари-чжон</option>
-						<option value="jj_04.asp">Гальчи-хобак-гук</option>
-						<option value="jj_05.asp">Обунчжаги-тим</option>
-						<option value="jj_06.asp">Обунчжаги-чжук</option>
+						<option value="" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+						<option value="jj_01.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+						<option value="jj_02.asp">пїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+						<option value="jj_03.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+						<option value="jj_04.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="jj_05.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="jj_06.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -41,8 +41,8 @@
 							</tr>
 							<tr><td><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 						</table>
-						<b>Обунчжаги-чжук (нанизанные ушные раковины) (приложение)</b><br><br>
-						Обработанные обунчжаги слегка надрезать, заправить и нанизать.
+						<b>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ) (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</b><br><br>
+						пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 						</td>
 					</tr>
 				</table>

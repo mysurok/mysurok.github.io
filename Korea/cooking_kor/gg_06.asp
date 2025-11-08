@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -14,17 +14,17 @@
 					</tr>
 					<tr><td background="/common/images/dot_01.gif" colspan="2"><img src="/common/images/trans.gif" width="1" height="1" border="0"></td></tr>
 					<tr bgcolor="#F5F5F5">
-						<td height="25" style="padding-left:10px"><b>Гёнги-до, Двечжи Гальби-гуи</b></td>
+						<td height="25" style="padding-left:10px"><b>ГёпїЅпїЅпїЅ-пїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</b></td>
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-						<option value="" selected>Выбор блюда</option>
-						<option value="gg_01.asp">Чжорэньи Тток-гук</option>
-						<option value="gg_02.asp">Самге-тхан</option>
-						<option value="gg_05.asp">Со Гальби-гуи</option>
-						<option value="gg_06.asp">Двечжи Гальби-гуи и Дакнальге-гуи</option>
-						<option value="gg_08.asp">Мемильмук Мучим</option>
-						<option value="gg_12.asp">Биндэ-тток</option>
+						<option value="" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+						<option value="gg_01.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_02.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+						<option value="gg_05.asp">пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_06.asp">пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_08.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+						<option value="gg_12.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -41,10 +41,10 @@
 							</tr>
 							<tr><td><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 						</table>
-						<b>Двечжи Гальби-гуи (жареные свиные ребра)  и<br>Дакнальге-гуи (жареные куриные крылышки) (приложение)</b><br><br>
-						Двечжи Гальби-гуи: Свиные ребра, вместо говяжьих, маринуются в приправе из острой соевой пасты, и жарятся.<br>
+						<b>пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ)  пїЅ<br>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ) (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</b><br><br>
+						пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ, пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.<br>
 						<br>
-						Дакнальге-гуи: Куриные крылышки маринуются и обжариваются.
+						пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ: пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ.
 						</td>
 					</tr>
 					<tr><td><img src="/common/images/trans.gif" width="1" height="10" border="0"></td></tr>

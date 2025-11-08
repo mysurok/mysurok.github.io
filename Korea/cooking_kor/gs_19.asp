@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -18,13 +18,13 @@
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="gs_03.asp">Мубап и Дэгу-тхан</option>
-							<option value="gs_04.asp">Хотчжеса-бап</option>
-							<option value="gs_11.asp">Агу-тим</option>
-							<option value="gs_13.asp">Мидодок-тим</option>
-							<option value="gs_14.asp">Доннэ-пхачжон</option>
-							<option value="gs_16.asp">Кимчи</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="gs_03.asp">пїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="gs_04.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="gs_11.asp">пїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="gs_13.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="gs_14.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="gs_16.asp">пїЅпїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -114,7 +114,7 @@
 					<tr valign="top">
 						<td>7)</td>
 						<td>
-						Pour into an earthenware pot, cover with a cloth, and leave at 60~70° for 5~6 hours. If rice is fermented, it floats and becomes sweet.
+						Pour into an earthenware pot, cover with a cloth, and leave at 60~70пїЅ for 5~6 hours. If rice is fermented, it floats and becomes sweet.
 						</td>
 					</tr>
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>

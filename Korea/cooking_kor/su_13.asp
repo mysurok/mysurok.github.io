@@ -1,10 +1,10 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	
 <title>
 
-							Tour2Korea.com: О корейской кухне </title>
+							Tour2Korea.com: пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ </title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
 </head>	
@@ -16,17 +16,17 @@
 					</tr>
 					<tr><td background="/common/images/dot_01.gif" colspan="2"><img src="/common/images/trans.gif" width="1" height="1" border="0"></td></tr>
 					<tr bgcolor="#F5F5F5">
-						<td height="25" style="padding-left:10px"><b><a href="cls_su.asp" class="c">Сеул</a><span class="c">, </span>Трёхцветные манду</b></td>
+						<td height="25" style="padding-left:10px"><b><a href="cls_su.asp" class="c">пїЅпїЅпїЅпїЅ</a><span class="c">, </span>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</b></td>
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="su_02.asp">Соллон-тхан</option>
-							<option value="su_10.asp">Тток-гук</option>
-							<option value="su_15.asp">Гальби-тим</option>
-							<option value="su_18.asp">Бульгоги(или нобиани)</option>
-							<option value="su_27.asp">Чжапчэ</option>
-							<option value="su_37.asp">Яксик</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="su_02.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="su_10.asp">пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="su_15.asp">пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="su_18.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ(пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</option>
+							<option value="su_27.asp">пїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="su_37.asp">пїЅпїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select -->						
 						</td>
@@ -44,8 +44,8 @@
 							</tr>
 							<tr><td><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 						</table>
-						<b>Трёхцветные манду (приложение)</b><br><br>
-						При замешивании теста добавить сок моркови, шпината и гардении для получения соответствующих цветов.
+						<b>пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ (пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ)</b><br><br>
+						пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ.
 						</td>
 					</tr>
 					<tr><td><img src="/common/images/trans.gif" width="1" height="10" border="0"></td></tr>
@@ -53,7 +53,7 @@
 				<table cellpadding="0" cellspacing="0" border="0" width="544">
 					<tr valign="top">
 						<td width="10" class="o">*</td>
-						<td class="o">Креветки богаты физиологически активными веществами, такими как бетаины и taurine. Кроме того, они питательны и содержат протеины и кальций.</td>
+						<td class="o">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ taurine. пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ, пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ.</td>
 					</tr>
 					<tr><td><img src="/common/images/trans.gif" width="1" height="20" border="0"></td></tr>
 				</table>

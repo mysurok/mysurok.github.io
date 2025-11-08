@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -18,13 +18,13 @@
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-							<option value="#" selected>Выбор блюда</option>
-							<option value="cc_01.asp">Санчэ бибимбап</option>
-							<option value="cc_02.asp">Гуль-бап</option>
-							<option value="cc_05.asp">Ёнбон-тхан</option>
-							<option value="cc_06.asp">Чонгукчжан-тиге</option>
-							<option value="cc_07.asp">Ольгэньи-гук</option>
-							<option value="cc_08.asp">Чжеюк-гочучжан-гуи</option>
+							<option value="#" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="cc_01.asp">пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ</option>
+							<option value="cc_02.asp">пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="cc_05.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="cc_06.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+							<option value="cc_07.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+							<option value="cc_08.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
@@ -81,7 +81,7 @@
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="10" border="0"></td></tr>
 					<tr valign="top">
 						<td width="15">1)</td>
-						<td>Soak the regular rice and glutinous rice separately in 20° water . Wait 8 hours for regular rice and 30 hours for glutinous rice. Drain, and grind with salt to 60 and 100 mesh.</td>
+						<td>Soak the regular rice and glutinous rice separately in 20пїЅ water . Wait 8 hours for regular rice and 30 hours for glutinous rice. Drain, and grind with salt to 60 and 100 mesh.</td>
 					</tr>
 					<tr><td colspan="2"><img src="/common/images/trans.gif" width="1" height="7" border="0"></td></tr>
 					<tr valign="top">

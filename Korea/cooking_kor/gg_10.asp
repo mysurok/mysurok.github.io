@@ -1,6 +1,6 @@
 <html>
 <head>
-	<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+	<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
 	<title>Tour2Korea</title>
 	<LINK REL="StyleSheet" HREF="t2k.css" type="text/css">
 	<script language="JavaScript" src="t2k.js"></script>
@@ -18,13 +18,13 @@
 						<td align="right">
 						<!-- select -->
 						<select name="s02" onChange="window.open(this.options[this.selectedIndex].value,'_self')">
-						<option value="" selected>Выбор блюда</option>
-						<option value="gg_01.asp">Чжорэньи Тток-гук</option>
-						<option value="gg_02.asp">Самге-тхан</option>
-						<option value="gg_05.asp">Со Гальби-гуи</option>
-						<option value="gg_06.asp">Двечжи Гальби-гуи и Дакнальге-гуи</option>
-						<option value="gg_08.asp">Мемильмук Мучим</option>
-						<option value="gg_12.asp">Биндэ-тток</option>
+						<option value="" selected>пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+						<option value="gg_01.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_02.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
+						<option value="gg_05.asp">пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_06.asp">пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅ</option>
+						<option value="gg_08.asp">пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ</option>
+						<option value="gg_12.asp">пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅ</option>
 						</select>
 						<!-- // select --></td>
 					</tr>
