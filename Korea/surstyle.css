@@ -65,8 +65,10 @@ a.header, div.header {
 div.footer {
     font-size: 14px;
     width: fit-content;
+    min-width: 800px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
     padding: 12px 0 24px;
     margin-top: 24px;
     border-top: 1px solid #6D6D6D;
