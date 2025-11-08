@@ -1,7 +1,7 @@
 body
 {
 	background-color: #cccccc;
-    font-size: 14px;
+    font-size: 18px;
 }
 ul
 {
@@ -27,6 +27,7 @@ td.head
 	color: #ffffff;
 	font-weight: bold;
 	font-size: 24px;
+    padding: 8px;
 }
 td.head2 
 {
@@ -34,7 +35,7 @@ td.head2
 	color: #ffffff;
 	font-weight: bold;
 	font-size: 24px;
-    margin: 4px;
+    padding: 8px;
 }
 .ps
 {
@@ -42,4 +43,35 @@ td.head2
 }
 p {
     line-height: 1.2;
+}
+p img {
+    float: left;
+    padding: 0 16px 16px 0;
+}
+div.page {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+a.header, div.header {
+    display: block;
+    width: 100%;
+    background-color: #aaaaaa;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 8px;
+}
+div.footer {
+    font-size: 14px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 0 24px;
+    margin-top: 24px;
+    border-top: 1px solid #6D6D6D;
+}
+img.right {
+    float: right;
+    padding: 0 0 16px 16px;
 }
