@@ -1,0 +1,149 @@
+﻿
+td { font-size: 11px;  font-family: Tahoma ; color:#484848; line-height:15px;}
+
+/* font-size 11 */
+.b { font-size: 11px;  font-family: Tahoma ;color:#094EB6; line-height:15px;}/* Blue */
+.w { font-size: 11px;  font-family: Tahoma ;color:#FFFFFF; line-height:15px;}/* White */
+.c { font-size: 11px;  font-family: Tahoma ;color:#000000; line-height:15px;}/* Black */
+.c3 { font-size: 11px;  font-family: Tahoma ;color:#333333; line-height:15px;}/* Gray3 */
+.c4 { font-size: 11px;  font-family: Tahoma ;color:#424242; line-height:15px;}/* Gray4 */
+.c5 { font-size: 11px;  font-family: Tahoma ;color:#575757; line-height:15px;}/* Gray5 */
+.o { font-size: 11px;  font-family: Tahoma ;color:#FF6600; line-height:15px;} /* Orange */
+.br { font-size: 11px;  font-family: Tahoma ;color:#C08035; line-height:15px;} /* Brown */
+.r { font-size: 11px;  font-family: Tahoma ;color:#BD2E2E; line-height:15px;} /* Red */
+.gr { font-size: 11px;  font-family: Tahoma ;color:#00AC00; line-height:15px;} /* Green */
+.ma { font-size: 11px;  font-family: verdana ;color:#00BEC5; line-height:15px;} /* Magenta*/
+
+.sd { font-size: 10px;  font-family: Tahoma ; line-height:15px;} /* Small */
+A.sd:link { COLOR: #484848; font-family: Tahoma ; font-size: 10px; TEXT-DECORATION: none}
+A.sd:visited { COLOR: #484848; font-family: Tahoma ; font-size: 10px; TEXT-DECORATION: none}
+A.sd:active { COLOR: #FF6600; font-family: Tahoma ; font-size: 10px; TEXT-DECORATION: underline}
+A.sd:hover { COLOR: #FF6600; font-family: Tahoma ; font-size: 10px; TEXT-DECORATION: underline}
+
+/* font-size 11 */
+.lt { font-size: 11px;  font-family: Tahoma ; color:#484848; line-height:15px;}
+.lb { font-size: 11px;  font-family: Tahoma ;color:#336699; line-height:15px;}
+.lw { font-size: 11px;  font-family: Tahoma ;color:#FFFFFF; line-height:15px;}
+.lc { font-size: 11px;  font-family: Tahoma ;color:#000000; line-height:15px;}
+.lc2 { font-size: 11px;  font-family: Tahoma ;color:#262626; line-height:15px;}
+.lo { font-size: 11px;  font-family: Tahoma ;color:#FF6600; line-height:15px;}
+.lg { font-size: 11px;  font-family: Tahoma ;color:#D7D6D6; line-height:15px;}/* subway1 */
+.lg2 { font-size: 11px;  font-family: Tahoma ;color:#EFEBEB; line-height:15px;}/* subway1 */
+
+/* font-size 9 */
+.sc { font-size: 9px;  font-family: Tahoma ; color:#000000; line-height:13px;}
+.sw { font-size: 9px;  font-family: Tahoma ;color:#FFFFFF; line-height:13px;}
+.std { font-size: 9px;  font-family: Tahoma ; color:#484848; line-height:13px;}
+
+/* font-size 12 */
+.f12 { font-size: 12px;  font-family: Tahoma ; color:#484848; line-height:17px;}
+.c12 { font-size: 12px;  font-family: Tahoma ; color:#000000; line-height:17px;}
+
+/* hangul */ 
+.hg { font-size: 11px;  font-family: 돋움,돋움체, Arial ;color:#484848; }
+
+input {font-size: 11px;  font-family: Tahoma ; color:#484848;}
+select {font-size: 11px;  font-family: Tahoma ; color:#484848;}
+.box { font-size:10px;  font-family: Tahoma ; border-width:1; border-color:#B4B4B4; background-color:#FFFFFF;color:#484848}
+
+.vs4	{ margin-top:4px; }
+
+/*   */
+A:link {	COLOR: #484848; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A:visited { COLOR: #484848; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A:active { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A:hover { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+
+A.sd:link span {	COLOR: #094EB6; font-family: Tahoma ; font-size: 10px; line-height:15px; TEXT-DECORATION: none}
+A.sd:visited span { COLOR: #094EB6; font-family: Tahoma ; font-size: 10px; line-height:15px; TEXT-DECORATION: none}
+A.sd:active span { COLOR: #094EB6; font-family: Tahoma ; font-size: 10px; line-height:15px; TEXT-DECORATION: underline}
+A.sd:hover span { COLOR: #094EB6; font-family: Tahoma ; font-size: 10px; line-height:15px; TEXT-DECORATION: underline}
+
+A.c:link {	COLOR: #000000; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.c:visited { COLOR: #000000; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.c:active { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.c:hover { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+
+A.board:link {	COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.board:visited { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.board:active { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.board:hover { COLOR: #FF6600; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+
+A.web:link {	COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.web:visited { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.web:active { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.web:hover { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+
+A.web2:link {	COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.web2:visited { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.web2:active { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+A.web2:hover { COLOR: #094EB6; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: underline}
+
+A.map:link {	COLOR: #666666; TEXT-DECORATION: none}
+A.map:visited { COLOR: #666666; TEXT-DECORATION: none}
+A.map:active { COLOR: #85B227; TEXT-DECORATION: none}
+A.map:hover { COLOR: #85B227; TEXT-DECORATION: none}
+
+A.foot:link {	COLOR: #888888; font-family: Tahoma ; font-size: 12px; TEXT-DECORATION: none}
+A.foot:visited { COLOR: #888888; font-family: Tahoma ; font-size: 12px; TEXT-DECORATION: none}
+A.foot:active { COLOR: #094EB6; font-family: Tahoma ; font-size: 12px; TEXT-DECORATION: underline}
+A.foot:hover { COLOR: #094EB6; font-family: Tahoma ; font-size: 12px; TEXT-DECORATION: underline}
+
+/* menu */
+A.menu:link {	COLOR: #484848; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+A.menu:visited { COLOR: #484848; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+A.menu:active { COLOR: #575757; font-family: Tahoma ; FONT-SIZE: 11px; font-weight:bold; TEXT-DECORATION: none}
+A.menu:hover { COLOR: #575757; font-family: Tahoma ; FONT-SIZE: 11px; font-weight:bold; TEXT-DECORATION: none}
+
+A.menu02:link {	COLOR: #484848; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.menu02:visited { COLOR: #484848; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.menu02:active { COLOR: #484848; font-family: Tahoma ; font-size: 11px; font-weight:bold; TEXT-DECORATION: none}
+A.menu02:hover { COLOR: #484848; font-family: Tahoma ; font-size: 11px; font-weight:bold; TEXT-DECORATION: none}
+
+/* REMOTE */
+A.remote:link {	COLOR: #6D6D6D; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.remote:visited { COLOR: #6D6D6D; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.remote:active { COLOR: #EB6F2B; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+A.remote:hover { COLOR: #EB6F2B; font-family: Tahoma ; font-size: 11px; TEXT-DECORATION: none}
+
+/* GNB */
+.gnb01 A:link {	COLOR: #871F06; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb01 A:visited { COLOR: #871F06; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb01 A:active { COLOR: #871F06; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+.gnb01 A:hover { COLOR: #871F06; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+ /* gnb02 gnb03 ?? */
+.gnb02 A:link {	COLOR: #874006; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb02 A:visited { COLOR: #874006; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb02 A:active { COLOR: #874006; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+.gnb02 A:hover { COLOR: #874006; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+
+.gnb04 A:link {	COLOR: #496101; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb04 A:visited { COLOR: #496101; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb04 A:active { COLOR: #496101; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+.gnb04 A:hover { COLOR: #496101; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+
+.gnb05 A:link {	COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb05 A:visited { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb05 A:active { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+.gnb05 A:hover { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+
+.gnb06 A:link {	COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb06 A:visited { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: none}
+.gnb06 A:active { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+.gnb06 A:hover { COLOR: #015761; font-family: Tahoma ; FONT-SIZE: 11px; TEXT-DECORATION: underline}
+
+
+/* menu 
+* 대메뉴 OFF시  텍스트(#484848) / 백그라운드(#E7E7E7) / 볼드(no)
+* 대메뉴 ON시   텍스트(#575757) / 백그라운드(#D8D8D8) / 볼드(yes)
+
+* 소메뉴 OFF시  텍스트(#484848) / 백그라운드(#E7E7E7) / 볼드(no)
+* 소메뉴 ON시  텍스트(#484848) / 백그라운드(#D8D8D8) / 볼드(yes)
+*/
+td.bmenuOn { color: #575757; font-family: Tahoma ; font-size: 11px; font-weight:bold; background:#D8D8D8;}
+td.smenuOn { color: #484848; font-family: Tahoma ; font-size: 11px; font-weight:bold; background:#D8D8D8;}
+
+td.bmenuOff { color: #484848; font-family: Tahoma ; font-size: 11px; background:#E7E7E7;}
+td.smenuOff { color: #484848; font-family: Tahoma ; font-size: 11px; background:#E7E7E7;}
+
+.backgroundOn {background:#D8D8D8;}

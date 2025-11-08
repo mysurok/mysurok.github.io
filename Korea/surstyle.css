@@ -1,0 +1,38 @@
+body
+{
+	background-color: #cccccc;
+}
+ul
+{
+	list-style-type: square;
+}
+li
+{
+	font-weight: bold;
+}
+li.back
+{
+	font-size: large;
+}
+td
+{
+	font-size: 12pt;
+}
+td.head
+{
+	background-color: #aaaaaa;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 15pt;
+}
+td.head2 
+{
+	background-color: #aaaaaa;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 20pt;
+}
+.ps
+{
+	font-size: x-small;
+}
