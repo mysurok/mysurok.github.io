@@ -49,23 +49,26 @@ p img {
     padding: 0 16px 16px 0;
 }
 div.page {
-    width: 800px;
+    width: 900px;
     margin-left: auto;
     margin-right: auto;
 }
 a.header, div.header {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
     background-color: #aaaaaa;
     color: #ffffff;
     font-weight: bold;
     font-size: 24px;
-    padding: 8px;
+    padding: 8px 16px;
 }
 div.footer {
     font-size: 14px;
     width: fit-content;
-    min-width: 800px;
+    min-width: 900px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -76,4 +79,24 @@ div.footer {
 img.right {
     float: right;
     padding: 0 0 16px 16px;
+}
+.news {
+    margin-left: 120px;
+}
+.news p {
+    margin: 8px 0;
+}
+.news_day {
+    position: absolute;
+    margin-left: -120px;
+    font-weight: 700;
+}
+.columns {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 0;
+}
+.newsLink {
+    font-size: 18px;
 }
